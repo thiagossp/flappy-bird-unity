@@ -5,8 +5,6 @@
   :video_game: "Flappy Bird" :video_game:
 </h2>
 
----
-
 ## :pencil: Projeto
 Este projeto é um jogo no estilo Flappy Bird desenvolvido durante o treinamento de Unity 2D da Alura. Trata-se de um projeto para estudos.
 
